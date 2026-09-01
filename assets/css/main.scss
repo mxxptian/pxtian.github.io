@@ -36,4 +36,19 @@
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv"
+
 ;
+
+/* Fix long employer name in author sidebar */
+/* Allow only the employer name to wrap in the author sidebar */
+.sidebar .author__urls li.author__employer {
+  white-space: normal !important;
+  display: flex !important;
+  align-items: flex-start;
+}
+
+.sidebar .author__urls li.author__employer span {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
