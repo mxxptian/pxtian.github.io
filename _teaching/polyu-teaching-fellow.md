@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate Teaching"
 permalink: /teaching/polyu-teaching-fellow
 venue: "Department of Applied Mathematics, The Hong Kong Polytechnic University"
-date: 2026-08-31
 location: "Hong Kong SAR"
 ---
 
