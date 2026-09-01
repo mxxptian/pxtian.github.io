@@ -13,12 +13,10 @@ site_theme               : "default"
 title                    : "Peixin Tian"
 title_separator          : "-"
 name                     : &name "Peixin Tian"
-
 description              : &description "Peixin Tian | Statistics, Statistical Genetics, and Biomedical Data Science"
 
 url                      : "https://mxxptian.github.io"
 baseurl                  : "/pxtian.github.io"
-
 repository               : "mxxptian/pxtian.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -34,10 +32,12 @@ author:
   uri              :
   email            : "pxtian.tian@polyu.edu.hk"
 
+  googlescholar    : "https://scholar.google.com/citations?user=HhubY1MAAAAJ&hl=en"
+  github           : "mxxptian"
+
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?user=HhubY1MAAAAJ&hl=en"
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -52,7 +52,6 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "mxxptian"
   kaggle           :
   stackoverflow    :
 
