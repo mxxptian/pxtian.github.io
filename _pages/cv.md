@@ -23,7 +23,7 @@ Education
 ### The University of Hong Kong
 
 **Ph.D. in Statistics and Actuarial Science**  
-Hong Kong SAR | 2020–2025
+Hong Kong SAR | 2020–2024
 
 Supervisors: Dr. Yan Dora Zhang and Dr. Zhonghua Liu
 
