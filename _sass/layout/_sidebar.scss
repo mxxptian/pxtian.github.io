@@ -303,9 +303,10 @@
     }
   }
 
-  li {
-    white-space: nowrap;
-  }
+   li {
+     white-space: normal;
+     overflow-wrap: break-word;
+   }
 
   a {
     display: block;
@@ -321,4 +322,6 @@
       text-decoration: underline;
     }
   }
+   
 }
+
