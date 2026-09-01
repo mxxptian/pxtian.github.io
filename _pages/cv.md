@@ -1,64 +1,79 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+### The University of Hong Kong
+**Ph.D. in Statistics and Actuarial Science**, 2020–2024
+
+Supervisors: Dr. Yan Dora Zhang and Dr. Zhonghua Liu
+
+### University of Michigan
+**M.S. in Applied Statistics**, 2018–2020
+
+### Wuhan University
+**B.S. in Applied Mathematics**, 2014–2018
+
+
+Academic Appointment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### The Hong Kong Polytechnic University
+**Teaching Fellow**  
+Department of Applied Mathematics
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+- Statistical genetics and genomics
+- High-dimensional statistical inference
+- Causal inference and mediation analysis
+- Polygenic risk prediction
+- Biomedical data science
+- Machine learning for electronic health records
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+**Teaching Fellow**, Department of Applied Mathematics,  
+The Hong Kong Polytechnic University
+
+Previous undergraduate teaching experience at The University of Hong Kong includes:
+
+- STAT 1600 — Statistics: Ideas and Concepts
+- STAT 3901 — Life Contingencies
+- STAT 1005 — Foundations of Data Science
+- STAT 3600 — Linear Statistical Analysis
+- STAT 3621 — Statistical Data Analysis
+
+
+Technical Skills
 ======
-* Currently signed in to 43 different slack teams
+
+**Programming:** R, Python, SQL, Linux, PyTorch
+
+**Biomedical Data:** UK Biobank, TCGA, GTEx, ADNI
+
+**Languages:** English, Mandarin
+
+
+Awards
+======
+
+- Excellent Research Award, Department of Statistics and Actuarial Science, The University of Hong Kong, 2023
+- Excellent Research Award, Department of Statistics and Actuarial Science, The University of Hong Kong, 2022
