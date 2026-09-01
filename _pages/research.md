@@ -82,10 +82,26 @@ My work also includes methods for transcriptome-wide association studies and mul
 Research Software
 ======
 
+I develop open-source statistical software for high-dimensional inference, statistical genetics, and biomedical data analysis.
+
 ### DANDELION
 
-DANDELION is a statistical genetics framework for trans-regulatory gene mapping and disease-gene prioritization.
+**DANDELION** is a statistical genetics framework for trans-regulatory gene mapping and disease-gene prioritization. It integrates trans-regulatory information with genetic association evidence to identify genes that are more closely connected to disease mechanisms.
 
-The software integrates statistical evidence from trans-regulatory relationships with genetic association information to identify candidate disease-driving genes.
+The framework was developed and applied in our recent study of asthma genetics published in *Cell*.
 
-[View DANDELION on GitHub](https://github.com/mxxptian/DANDELION)
+[**View DANDELION on GitHub →**](https://github.com/mxxptian/DANDELION)
+
+
+### Grace-AKO
+
+**Grace-AKO** is a knockoff-based variable selection method designed for high-dimensional genomic data. It incorporates prior gene-network structures into variable selection and uses aggregated knockoff inference to improve selection stability while controlling the false discovery rate.
+
+[**View Grace-AKO on GitHub →**](https://github.com/mxxptian/GraceAKO)
+
+
+### TL-Multi
+
+**TL-Multi** is a transfer-learning framework for multiethnic polygenic risk prediction. It leverages information from large-scale GWAS in well-represented populations to improve genetic risk prediction in populations with more limited training data.
+
+[**View TL-Multi on GitHub →**](https://github.com/mxxptian/TLMulti)
