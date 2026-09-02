@@ -84,27 +84,6 @@ Department of Statistics and Actuarial Science
 - **STAT 3621 — Statistical Data Analysis**, 2024
 
 
-Research Experience and Methodological Expertise
-======
-
-### Statistical Genetics and Genomics
-
-Research on statistical methods for genetic and genomic studies, including trans-regulatory gene mapping, transcriptome-wide association studies, polygenic risk prediction, and disease-gene prioritization.
-
-### Causal Inference and Mediation Analysis
-
-Development of methods for high-dimensional mediation analysis, particularly for survival outcomes and epigenomic studies.
-
-
-Technical Skills
-======
-
-**Programming:** R, Python, SQL, Linux, PyTorch
-
-**Biomedical Data:**  
-UK Biobank, TCGA, GTEx, ADNI, electronic health records
-
-
 Awards
 ======
 
