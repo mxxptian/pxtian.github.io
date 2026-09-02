@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies at the intersection of **statistical genetics, high-dimensional statistics, causal inference, and biomedical data science**. I develop statistical and machine learning methods for complex biomedical data, with the goal of improving reliable discovery, genetic risk prediction, and biological interpretation.
+My research lies at the intersection of **statistical genetics, Mediation Analysis, and biomedical data science**. I develop statistical and machine learning methods for complex biomedical data, with the goal of improving reliable discovery, genetic risk prediction, and biological interpretation.
 
 Research Areas
 ======
@@ -16,21 +16,10 @@ I am interested in developing statistical methods that connect genetic associati
 
 A recent focus of this work is the development of statistical genetic approaches for prioritizing disease-driving genes and pathways.
 
-### High-dimensional Statistical Inference
-
-A major part of my methodological research focuses on variable selection and statistical inference in high-dimensional settings.
-
-I am particularly interested in methods based on:
-
-- Knockoff inference
-- False discovery rate control
-- Structured variable selection
-- Multiple data splitting
-- High-dimensional survival analysis
 
 These methods have been applied to genetic, genomic, and epigenetic studies.
 
-### Causal Inference and Mediation Analysis
+### Mediation Analysis
 
 I develop statistical methods for identifying potential mediating mechanisms in high-dimensional biomedical data.
 
