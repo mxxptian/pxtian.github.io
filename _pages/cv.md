@@ -46,9 +46,6 @@ Research Interests
 - Statistical genetics and genomics
 - Causal inference and mediation analysis
 - Polygenic risk prediction
-- Transcriptome-wide association studies
-- Machine learning for longitudinal electronic health records
-- Biomedical and clinical data science
 
 
 Publications
@@ -94,10 +91,6 @@ Research Experience and Methodological Expertise
 
 Research on statistical methods for genetic and genomic studies, including trans-regulatory gene mapping, transcriptome-wide association studies, polygenic risk prediction, and disease-gene prioritization.
 
-### High-dimensional Statistical Inference
-
-Development of statistical methods for variable selection and false discovery rate control in high-dimensional settings, including knockoff-based inference, structured variable selection, and multiple data splitting.
-
 ### Causal Inference and Mediation Analysis
 
 Development of methods for high-dimensional mediation analysis, particularly for survival outcomes and epigenomic studies.
@@ -110,7 +103,6 @@ Technical Skills
 
 **Biomedical Data:**  
 UK Biobank, TCGA, GTEx, ADNI, electronic health records
-
 
 
 Awards
