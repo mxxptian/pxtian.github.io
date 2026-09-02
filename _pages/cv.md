@@ -44,7 +44,7 @@ Research Interests
 ======
 
 - Statistical genetics and genomics
-- Causal inference and mediation analysis
+- Mediation analysis
 - Polygenic risk prediction
 
 
