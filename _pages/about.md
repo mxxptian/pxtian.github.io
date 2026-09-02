@@ -14,7 +14,6 @@ I am a **Teaching Fellow in the Department of Applied Mathematics at The Hong Ko
 
 My research lies at the intersection of **statistical genetics, high-dimensional statistical inference, and biomedical data science**. I develop statistical and machine learning methods for complex genetic, genomic, and clinical data, with particular interests in reliable variable selection, mediation analysis, disease-gene discovery, polygenic risk prediction, and longitudinal electronic health records.
 
-A central theme of my research is to connect **statistical signals with biological and clinical mechanisms**, combining methodological development with applications to large-scale biomedical datasets.
 
 
 Research Focus
@@ -24,26 +23,6 @@ Research Focus
 - **High-dimensional Statistical Inference** — variable selection, knockoff inference, false discovery rate control, and structured statistical learning
 - **Causal Inference and Mediation Analysis** — identification of potential causal and mediating mechanisms in high-dimensional biomedical studies
 - **Biomedical Data Science** — statistical and machine learning methods for longitudinal electronic health records and multimodal clinical data
-
-
-Featured Research
-======
-
-### From Genetic Signals to Disease Mechanisms
-
-A major direction of my recent research is developing statistical genetic approaches that move beyond association signals toward biologically interpretable disease mechanisms.
-
-In our recent work published in **Cell**, we developed a trans-regulatory gene mapping framework that integrates trans-regulatory information, rare-variant evidence, and functional validation to prioritize disease-driving genes in asthma.
-
-> **Salamone, I. M., Tian, P.*, Qi, Z., et al.**  
-> *Trans-regulatory gene mapping prioritizes disease drivers in asthma.*  
-> **Cell**, 2026.
-
-### Reliable Inference in High-dimensional Biomedical Data
-
-My methodological research focuses on statistical inference when the number of potential biomarkers or genetic features is large. I have developed methods based on **knockoff inference, multiple data splitting, structured information, and transfer learning** for high-dimensional mediation analysis, variable selection, transcriptome-wide association studies, and polygenic risk prediction.
-
-The broader goal is to develop methods that achieve both **statistical reliability and biomedical interpretability**.
 
 
 Selected Publications
